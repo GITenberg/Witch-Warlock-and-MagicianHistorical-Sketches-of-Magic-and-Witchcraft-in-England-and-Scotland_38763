@@ -1,0 +1,37 @@
+_repo: Witch-Warlock-and-MagicianHistorical-Sketches-of-Magic-and-Witchcraft-in-England-and-Scotland_38763
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, W. H. Davenport (William Henry Davenport)
+    aliases:
+    - Adams, William Henry Davenport
+    - Adams, W.H.
+    birthdate: 1828
+    deathdate: 1891
+    gutenberg_agent_id: '34969'
+    url: http://www.gutenberg.org/2009/agents/34969
+description: ''
+gutenberg_issued: '2012-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic -- England -- History'
+- !lcsh 'Magic -- Great Britain -- History'
+- !lcsh 'Witchcraft -- England -- History'
+- !lcsh 'Magic -- Scotland -- History'
+- !lcsh 'Witchcraft -- Scotland -- History'
+- !lcsh 'Witchcraft -- Great Britain -- History'
+- !lcc 'BF'
+- !lcsh 'Occultists -- Great Britain'
+title: 'Witch, Warlock, and Magician
+
+  Historical Sketches of Magic and Witchcraft in England and Scotland'
+url: http://www.gutenberg.org/ebooks/38763
